@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KKFUNDA AWS</h1>
-<h1 align="center">KK DEVOPS Batch B5 is running</h1>
+<h1 align="center">KK DEVOPS Batch B5</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
